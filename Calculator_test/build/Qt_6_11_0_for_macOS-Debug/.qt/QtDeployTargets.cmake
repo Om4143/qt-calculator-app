@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_Calculator_test_FILE /Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/Calculator_test.app/Contents/MacOS/Calculator_test)
-set(__QT_DEPLOY_TARGET_Calculator_test_TYPE EXECUTABLE)

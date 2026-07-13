@@ -1,9 +1,0 @@
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/Calculator_test.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/install.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/install/local.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/install/strip.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/Calculator_test_autogen_timestamp_deps.dir
-/Users/om/qt_tutorial/Calculator_test/build/Qt_6_11_0_for_macOS-Debug/CMakeFiles/Calculator_test_autogen.dir
