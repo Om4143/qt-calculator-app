@@ -1,0 +1,6 @@
+build/
+*.o
+*.app
+.DS_Store
+.qtcreator/
+.qtc_clangd/
